@@ -1,27 +1,31 @@
 # 1.2
-UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+![image](https://user-images.githubusercontent.com/105686218/169063263-fec46540-3f80-4755-af10-c6e466470348.png)        
 
 
-CARRERA DE ELECTRONICA Y AUTOMATIZACION
 
-FUNDAMENTOS DE CIRCUITOS ELECTRICOS
+## CARRERA DE ELECTRONICA Y AUTOMATIZACION
+
+## FUNDAMENTOS DE CIRCUITOS ELECTRICOS
+
+***
 
 
-Nombre: Kevin Chalán
+**Nombre:** Kevin Chalán
 
-Nivel: Segundo 
+**Nivel: **Segundo 
 
-Nrc: 
+**Nrc:** 
 
-Fecha de entrega: 17/05/2022
+**Fecha de entrega:** 17/05/2022
 
-Tema: “Cantidades y Unidades” 
+Tema: **“Cantidades y Unidades”** 
+***
 
-Objetivo General
+**Objetivo General**
 
 “Entrar y familiarizarnos con los diferentes términos de circuitos y electricidad con las respectivas características de los diferentes componentes que la conforman” 
 
-Objetivos Específicos
+**Objetivos Específicos**
 
 1.- Determinar las equivalencias generales del SI (Sistema Internacional) 
 
@@ -33,13 +37,17 @@ Objetivos Específicos
 
 5.-Analizar el comportamiento de toda clase de interruptores. 
 
-Marco Teórico: 
+***
+
+**Marco Teórico:**
+
 
 Introducción 
 
 A lo largo de la historia de la humanidad se han ido desarrollando los diferentes tipos de circuitos y bases componentes para el desarrollo de la tecnología que hoy en día usamos, pero podemos entender que ha sido un gran paso y ha ido perfeccionándose de poco en poco y se analizó las diferentes características que componen el formar un circuito y a lo largo de la historia se le asigno diferentes nombres e incluso notaciones.
+***
 
-CAPITULO 1
+**CAPITULO 1**
 
 ![image](https://user-images.githubusercontent.com/105686218/169053342-9596e77a-da43-439d-941c-86dbed5a31f2.png)
 
@@ -48,8 +56,9 @@ CAPITULO 1
 ![image](https://user-images.githubusercontent.com/105686218/169053421-4f3305f2-1af7-4f09-a72e-06b80a08cd94.png)
 
 ![image](https://user-images.githubusercontent.com/105686218/169053456-2556d67c-1a94-414c-af96-8f73962b7526.png)
+***
 
-CAPITULO 2
+**CAPITULO 2**
 
 ![image](https://user-images.githubusercontent.com/105686218/169053527-93d83443-f690-48d2-9443-eb24b9ba746b.png)
 
@@ -60,8 +69,9 @@ CAPITULO 2
 ![image](https://user-images.githubusercontent.com/105686218/169053678-9db46f07-8eca-4d74-bec4-180209f8e4c7.png)
 
 ![image](https://user-images.githubusercontent.com/105686218/169053720-1e2704da-02c4-4f48-851a-6336e0f642c6.png)
+***
 
-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+**EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS**
 
 2. La unidad de corriente es 
 
