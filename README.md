@@ -14,7 +14,8 @@
 
 **Nivel: **Segundo 
 
-**Nrc:** 
+**Nrc:** 7309
+
 
 **Fecha de entrega:** 17/05/2022
 
@@ -179,7 +180,7 @@ SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 
 (b) 450,000 Ω= 450 k Ω 
 
-(c) 12,040,000,000,000 Ω = 12. 040 M Ω 
+(c) 12,040,000,000,000 Ω = 12. 040 G Ω 
 
 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
 
@@ -342,8 +343,7 @@ Por la  inducción electromagnética
 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω
 ¿cuál es la corriente en la carga?
 
-![image](https://user-images.githubusercontent.com/105686218/169289062-fa82f430-0872-400f-b1d3-1818fecbea82.png)
-
+![image](https://user-images.githubusercontent.com/105686218/169334032-085ab3f6-7e48-4cd2-8f13-f0ace2570b23.png)
 
 
 **SECCIÓN 2–5 Resistores**
@@ -479,6 +479,7 @@ Puede llegar a 19.999 recuentos de resolución
 
 **VIDEO**
 
+https://youtu.be/-HwYb8qOJYU  
 
 ***
 **CONCLUSIONES**
@@ -492,7 +493,8 @@ Puede llegar a 19.999 recuentos de resolución
 ***
 
 
-**Bibliografia 
+**Bibliografia**
+
 FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007
 
 
