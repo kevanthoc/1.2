@@ -231,9 +231,276 @@ SECCIÓN 1–4 Conversiones de unidades métricas
 (c)	1 MW /2 Kw
 
 1000 k W / 2 k W = 500 K w 
+***
+**RESOLUCION CAPITULO 2**
+
+
+**AUTOEVALUACION** 
+
+
+ 2 Las órbitas de los electrones se llaman
+
+(b) núcleos 
+
+4 Cuando se colocan cerca uno del otro, un material positivamente cargado y uno negativamente cargado se
+
+(c) atraen 
+
+
+ 6 Diferencia de potencial es otro término para
+
+(b) voltaje
+
+
+8 ¿Cuál de los siguientes artefactos no es un tipo de fuente de energía?
+
+ (d) potenciómetro
+
+(10) La corriente eléctrica se define como
+
+(a)	la velocidad del flujo de los electrones libres
+
+12. El propósito primordial de un resistor es
+
+ (b) limitar la corriente
+
+14. En un circuito dado, la corriente no debe exceder de 22 A. ¿Qué valor de fusible es mejor?
+
+(c) 20 A 
+
+
+**SECCIÓN 2–2 Carga eléctrica**
+
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+
+![image](https://user-images.githubusercontent.com/105686218/169288565-c6e86e0a-1b8c-4fcf-8c6c-a4dd4e7c52e0.png)
+
+
+4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+
+![image](https://user-images.githubusercontent.com/105686218/169288587-38e403fa-7fd8-494a-8e0b-5b86d9348012.png)
 
 
 
+**SECCIÓN 2–3 Voltaje, corriente y resistencia**
+
+6. Se utilizan 500 joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
+a través del resistor?
+
+![image](https://user-images.githubusercontent.com/105686218/169288642-90c86ccd-9272-44b8-a2f3-787d5cc630ec.png)
+
+
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+![image](https://user-images.githubusercontent.com/105686218/169288691-b7321988-86a3-4b71-b3d7-4c80819c4188.png)
+
+
+10. Determine la corriente en cada uno de los siguientes casos:
+
+
+(a) 75 C en 1 s
+![image](https://user-images.githubusercontent.com/105686218/169288801-6d7afa00-cec2-40b4-a104-6bebc0062960.png)
+
+
+(b) 10 C en 0.5 s
+
+![image](https://user-images.githubusercontent.com/105686218/169288823-cd5e159f-03e3-4175-83e8-fe741277be83.png)
+
+
+(c) 5 C en 2 s
+
+![image](https://user-images.githubusercontent.com/105686218/169288848-4aa0ad64-66fe-4531-971b-eb1e92de9e51.png)
+
+
+12	¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+![image](https://user-images.githubusercontent.com/105686218/169288955-23b0f827-2d8c-4c9e-ae52-acf0780e1d58.png)
+
+
+14. 5.74 x10^(17) electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+![image](https://user-images.githubusercontent.com/105686218/169288985-eef5e19d-cce6-437f-a6aa-cf0d63c25f8a.png)
+
+
+16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+
+(a) 0.1 S 
+
+(b) 0.5 S
+
+(c) 0.02 S
+
+
+
+**SECCIÓN 2–4 Fuentes de voltaje y de corriente**
+
+18. ¿En qué principio se basan los generadores eléctricos?
+
+Por la  inducción electromagnética
+
+
+20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω
+¿cuál es la corriente en la carga?
+
+![image](https://user-images.githubusercontent.com/105686218/169289062-fa82f430-0872-400f-b1d3-1818fecbea82.png)
+
+
+
+**SECCIÓN 2–5 Resistores**
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
+problema 21.
+
+![image](https://user-images.githubusercontent.com/105686218/169289128-54e58d5d-eb48-4a13-8a15-46534335cbfd.png)
+
+
+(a) rojo, violeta, naranja, oro
+![image](https://user-images.githubusercontent.com/105686218/169289149-ff51e833-7727-4411-a083-59f2d4bf869f.png)
+
+
+
+(b) café, gris, rojo, plata
+![image](https://user-images.githubusercontent.com/105686218/169289244-1925ccda-7b46-4476-bd27-fb2a6a1e0d7b.png)
+
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+(a) café, negro, negro, oro
+
+![image](https://user-images.githubusercontent.com/105686218/169289278-62111f58-70bd-48ec-9b45-dad90d69b869.png)
+
+
+(b) verde, café, verde, plata
+
+![image](https://user-images.githubusercontent.com/105686218/169289341-0f2b4f86-3d29-4332-a0a6-921453464c00.png)
+
+(c) azul, gris, negro, oro
+
+![image](https://user-images.githubusercontent.com/105686218/169289382-792740b2-7d91-4173-ac6e-dd2057635457.png)
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+ ![image](https://user-images.githubusercontent.com/105686218/169289464-6890fbf1-6690-4b77-879b-c532e6ea42d4.png)
+
+
+
+(a) rojo, gris, violeta, rojo, café
+
+![image](https://user-images.githubusercontent.com/105686218/169289582-8fb6c005-9627-407d-855d-2226fdfd0c1f.png)
+
+
+(b) azul, negro, amarillo, oro, café
+
+![image](https://user-images.githubusercontent.com/105686218/169289613-7ce59a79-dbcc-4a62-9510-4c578fbe74df.png)
+
+
+(c) blanco, naranja, café, café, café
+
+![image](https://user-images.githubusercontent.com/105686218/169289663-2083bd02-d0d9-4566-b696-17064c0c05e8.png)
+
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
+resistencia total es de 1000 ohmios , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+Sigue siendo de 1000 ohmios
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+
+
+(a) 4R7J 
+    47Ω con tolerancia de 5%
+(b) 5602M
+    5602 MΩ
+(c) 1501F
+    1501Ω con tolerancia de 1%
+    
+**SECCIÓN 2–6 El circuito eléctrico**
+
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible
+conectado para proteger el circuito contra corriente excesiva.
+
+ ![image](https://user-images.githubusercontent.com/105686218/169290430-50a8cd3c-b5fb-4177-aa9b-4f02351eeb4a.png)
+
+
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/105686218/169290589-f80d2e04-f800-4e11-bbd3-ed063ad9be41.png)
+ 
+ Por medio del resistor 1
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que
+aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
+fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
+de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una
+sección puede ser conectada al amplificador.
+
+![image](https://user-images.githubusercontent.com/105686218/169291244-ece90795-c01b-438d-ac43-ed1f684c4746.png)
+
+Por medio de una serie de circuitos con resitores para cada uno de los componentes 
+ 
+
+**SECCIÓN 2–7 Mediciones de circuito básicas**
+ 
+
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+
+![image](https://user-images.githubusercontent.com/105686218/169292976-6a707696-b6f7-446e-9f7d-3b0d808e9029.png)
+
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
+fuente de voltaje sin importar la posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/105686218/169293656-f81f1bf7-6aab-4b4d-ad00-26c0268416b6.png)
+
+ 
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor
+presente en la figura 2-70.
+
+El voltimetro debe estrar ajustado para medir Voltaje 
+
+![image](https://user-images.githubusercontent.com/105686218/169295091-38cc782e-02ff-4153-82b4-da6b47a62bb0.png)
+
+
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![image](https://user-images.githubusercontent.com/105686218/169295336-e2ab338c-f45a-4e67-ad27-0f277c14ce2d.png)
+
+Esta midiendo 2 Ohmios 
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+Puede llegar a 19.999 recuentos de resolución
+
+***
+
+**VIDEO**
+
+
+***
+**CONCLUSIONES**
+
+
+•	Podemos concluir que por medio de los diferentes tipos de implementaciones que se han ido desarrollando para la facilidad y accesibilidad para el análisis distinto de las características que tiene un circuito desde el avance de programas que ayudan con la medición de los mismos ejemplos. 
+
+•	Gracias a los diferentes tipos de simuladores que podemos encontrar en el internet podemos determinar y cuantificar de manera mucho más sencilla una simulación de la vida cotidiana y así tener un valor más exacto de cuánto será la medida exacta de lo que midamos 
+
+
+***
+
+
+**Bibliografia 
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007
+
+
+***
+
+**RUBRICA**
+
+![image](https://user-images.githubusercontent.com/105686218/169296493-b957ff61-19bd-451d-8233-87d71ee3f0bf.png)
 
 
 
